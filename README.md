@@ -40,6 +40,9 @@ This file contains the **'Scoreboard'** class, which keeps track of the player's
 
 If you would like to contribute to this project, feel free to submit a pull request or open an issue.
 
+## License
+This project is licensed under the terms of the MIT license. Please see the LICENSE file for full details.
+
 ## Credits 
 
 This game was inspired by the Udemy course: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu. Feel free to use this code as a starting point for your own projects.
